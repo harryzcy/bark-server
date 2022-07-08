@@ -12,7 +12,7 @@ require (
 	github.com/mritd/logger v0.0.6
 	github.com/sideshow/apns2 v0.23.0
 	github.com/urfave/cli/v2 v2.10.3
-	go.etcd.io/bbolt v1.3.5
+	go.etcd.io/bbolt v1.3.6
 	golang.org/x/net v0.0.0-20220403103023-749bd193bc2b
 )
 
